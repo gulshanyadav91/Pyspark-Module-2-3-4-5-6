@@ -1,0 +1,36 @@
+employee_id,name,department,city,salary,age
+,Ravi Shankar,SALES,Patna,44000,32
+1.0,Amit Sharma,IT,Kanpur,55000,28
+2.0,Priya Singh,HR,Lucknow,48000,32
+3.0,Rahul Verma,FINANCE,Delhi,62000,35
+4.0,Neha Gupta,IT,MAU,58000,27
+5.0,Suresh Kumar,SALES,Mumbai,10000,41
+6.0,Anjali Mehta,PION,Pune,51000,29
+7.0,Vikram Rao,IT,Bangalore,75000,22
+8.0,unknown,HR,Kanpur,46000,30
+9.0,Pooja Yadav,FINANCE,Delhi,60000,33
+10.0,Rohit Jain,SALES,Jaipur,43000,26
+11.0,Sneha Reddy,IT,Hyderabad,82000,38
+12.0,Karan Malhotra,MARKETING,Mumbai,54000,31
+13.0,Divya Nair,MARKETING,Kochi,10000,28
+14.0,Arjun Patel,SALES,Ahmedabad,45000,34
+15.0,Meena Iyer,HR,Chennai,49000,22
+17.0,Deepak Chauhan,IT,Noida,67000,36
+18.0,Ritu Agarwal,FINANCE,Kanpur,59000,29
+19.0,Manish Tiwari,SALES,Lucknow,0,40
+20.0,Kavita Joshi,HR,Indore,47000,55
+21.0,Sanjay Mishra,IT,KANPUR,71000,37
+22.0,Nisha Kapoor,MARKETING,Delhi,52000,25
+23.0,unknown,PION,MAU,10000,22
+24.0,Gaurav Saxena,FINANCE,Agra,64000,42
+25.0,Tanvi Desai,IT,Pune,78000,30
+26.0,Harsh Pandey,SALES,Varanasi,39000,24
+27.0,Swati Bhatt,HR,Kolkata,50000,33
+28.0,Mohit Arora,MARKETING,MAU,56000,29
+29.0,Ishita Roy,FINANCE,Kolkata,9999999,31
+30.0,Aditya Kulkarni,IT,Pune,69000,35
+31.0,Rekha Soni,SALES,,42000,38
+32.0,Yash Bansal,HR,Delhi,48500,27
+33.0,Pallavi Dubey,IT,Lucknow,10000,22
+34.0,Nitin Goel,FINANCE,Noida,61000,39
+35.0,Amit Sharma,IT,Kanpur,55000,28
